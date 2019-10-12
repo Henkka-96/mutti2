@@ -1,7 +1,7 @@
 ---
 title: "Kastike1"
 date: 2019-10-12T10:30:27+03:00
-featured_image: '/images/7.jpg'
+featured_image: '/images/pienitomaatti.jpg'
 draft: false
 ---
 
