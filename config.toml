@@ -24,7 +24,7 @@ enableRobotsTXT = true
 [params]
   body_classes = "avenir bg-near-white"
   favicon = "images/mutti_logo.jpg"
-  description = "Viimeinen luotto-sivu, jota tarvitset. Ehkä."
+  description = "Viimeinen kastike-sivu, jota tarvitset. Ehkä."
   facebook = "#"
   twitter = "#"
   instagram = "#"
