@@ -7,8 +7,6 @@ draft: false
 
 # Mutta mutti
 
-
-
 Bacon ipsum dolor amet rump filet mignon pork loin shoulder pork belly short loin burgdoggen strip steak. Jowl pig sausage picanha shankle. Venison ribeye andouille kielbasa pastrami landjaeger. Picanha alcatra bresaola andouille jowl prosciutto, beef ground round cupim shoulder strip steak porchetta. Jowl pancetta brisket frankfurter bresaola. Tail pastrami meatloaf shank boudin tongue meatball landjaeger ham flank kielbasa tri-tip filet mignon strip steak chicken.
 
 Buffalo picanha rump jerky shoulder. Chuck tri-tip beef burgdoggen landjaeger short loin. Andouille sirloin landjaeger tenderloin capicola pork chop. Cupim short ribs pig shoulder beef ribs pastrami turkey pork belly leberkas pork meatball ribeye. Chuck pastrami rump kevin cupim, ground round beef beef ribs.
